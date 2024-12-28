@@ -1,0 +1,6 @@
+BEGIN_COMMIT_OVERRIDE
+feat: add ability to override merged commit message
+
+fix: another message
+chore: a third message
+END_COMMIT_OVERRIDE
